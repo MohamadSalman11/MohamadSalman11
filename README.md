@@ -6,7 +6,7 @@ Frontend Software Engineer. I absolutely love web development!
 
 I really enjoy contributing to open-source projects
 
-<p><a href="https://github.com/twbs/bootstrap" style="text-decoration: none !important;"><img src="images/bootstrap-logo.svg" alt="Bootstrap" height="40"></a><a href="https://github.com/freeCodeCamp/freeCodeCamp" style="text-decoration: none !important;"><img src="images/freecodecamp.png" alt="freeCodeCamp" height="40"></a>
+<p><a href="https://github.com/twbs/bootstrap" style="text-decoration: none !important;"><img src="images/bootstrap-logo.svg" alt="Bootstrap" height="38"></a><a href="https://github.com/freeCodeCamp/freeCodeCamp" style="text-decoration: none !important;"><img src="images/freecodecamp.png" alt="freeCodeCamp" height="40"></a>
 
 
 
