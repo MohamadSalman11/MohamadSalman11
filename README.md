@@ -24,7 +24,7 @@ Instructor on [Udemy](https://www.udemy.com/user/hamude-52/)
 
 ## Socials 🌐
 
-<p><a href="https://github.com/MohamadSalman" target="_blank" style="text-decoration: none !important;"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/MohmadSalmanDev" target="_blank" style="text-decoration: none !important;"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<p><a href="https://github.com/MohamadSalman" target="_blank" style="text-decoration: none !important;"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/MohmadSalmanDev" target="_blank" style="text-decoration: none !important;"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="https://www.youtube.com/@LofiCoding11/videos" target="_blank" style="text-decoration: none !important;"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
 
 
