@@ -34,6 +34,4 @@ Instructor on [Udemy](https://www.udemy.com/user/hamude-52/)
 
 
 ## Support My Passion
-<a href="https://paypal.com/donate/?hosted_button_id=L24ZCZREEDDJ4" style="text-decoration: none !important;">
-  <img src="images/donate-button.png" alt="Donate with PayPal" style="width: 140px !important; height: 45px !important;">
-</a>
+<p><a href="https://paypal.com/donate/?hosted_button_id=L24ZCZREEDDJ4" style="text-decoration: none !important;"><img src="images/donate-button.png" alt="Donate with PayPal" style="width: 140px !important; height: 45px !important;"></a><img src="images/LofiCoding-logo.png" alt="LofiCoding logo" width="50px" height="50px"></p>
