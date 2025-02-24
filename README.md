@@ -6,7 +6,7 @@ Frontend Software Engineer. I absolutely love web development!
 
 I really enjoy contributing to open-source projects
 
-<p><a href="https://github.com/twbs/bootstrap" style="text-decoration: none !important;"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" height="40"></a><a href="https://github.com/freeCodeCamp/freeCodeCamp" style="text-decoration: none !important;"><img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9mY2RhNDM4NTI2MDg2MjZmZTQ2ZDdmZDQzMTQ1NzY2ZT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.l-5iyLZMhxA8NPM6apqba6oCeJ4p8f63d6aVep6utAI" alt="freeCodeCamp" height="40"></a>
+<p><a href="https://github.com/twbs/bootstrap" style="text-decoration: none !important;"><img src="images/bootstrap-logo.svg" alt="Bootstrap" height="40"></a><a href="https://github.com/freeCodeCamp/freeCodeCamp" style="text-decoration: none !important;"><img src="images/freecodecamp.png" alt="freeCodeCamp" height="40"></a>
 
 
 
@@ -35,5 +35,5 @@ Instructor on [Udemy](https://www.udemy.com/user/hamude-52/)
 
 ## Support My Passion
 <a href="https://paypal.com/donate/?hosted_button_id=L24ZCZREEDDJ4" style="text-decoration: none !important;">
-  <img src="https://github.com/MohamadSalman11/MohamadSalman11/blob/main/donate-button.png?raw=true" alt="Donate with PayPal" style="width: 140px !important; height: 45px !important;">
+  <img src="images/donate-button.png" alt="Donate with PayPal" style="width: 140px !important; height: 45px !important;">
 </a>
