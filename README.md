@@ -20,7 +20,7 @@ I really enjoy contributing to open-source projects
 I love teaching coding and sharing knowledge with others.
 
 Instructor on [Udemy](https://www.udemy.com/user/hamude-52/)   
-350+ Students
+400+ Students
 
 ## Socials
 
