@@ -2,7 +2,7 @@
 
 Frontend Software Engineer. I absolutely love web development!
 
-## <img src="images/lovit.png" height="45" alt="Lovit" />
+## <a href="https://github.com/lovit-dev/lovit"><img src="images/lovit.png" height="45" alt="Lovit" /></a>
 
 Creator of [Lovit](https://lovit.dev) — a next-gen JavaScript error handling library
 
